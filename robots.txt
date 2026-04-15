@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cocostamp.github.io/sitemap.xml
